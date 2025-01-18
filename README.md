@@ -1,5 +1,5 @@
 ## Welcome to my GitHub Profile 👋
-- 👋 Hi, I’m Lu-Hung (Jason) Su (@JasonSu14). I'm a fourth year Computer and Information Science (CIS) undergraduate student at The Ohio State University.
+- 👋 Hi, I’m Lu-Hung (Jason) Su ([@JasonSu14](https://github.com/JasonSu14)). I'm a fourth year Computer and Information Science (CIS) undergraduate student at The Ohio State University.
 
 <!---
 - 👀 I’m interested in ...
