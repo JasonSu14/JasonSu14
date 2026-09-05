@@ -1,5 +1,5 @@
 ## Welcome to Jason's GitHub Profile 👋
-- 👋 Hi there, I’m [Lu-Hung (Jason) Su](https://jasonsu14.github.io). I'm a first year master's student in **Data Science** at [Center for Data Science](https://cds.nyu.edu), [New York University](https://www.nyu.edu).
+- 👋 Hi there, I’m [Lu-Hung (Jason) Su](https://jasonsu14.github.io). I'm a first year master's student studying **Data Science** at [Center for Data Science](https://cds.nyu.edu), [New York University](https://www.nyu.edu).
 
 [[Email](mailto:ls7293@nyu.edu)]
 [[Google Scholar](https://scholar.google.com/citations?user=Zd5pZj4AAAAJ&hl=en&authuser=1)]
